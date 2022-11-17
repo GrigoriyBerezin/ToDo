@@ -105,7 +105,7 @@ select {
     padding: 1rem;
 }
 .select::after {
-    content: "\25BC";
+    content: "\25BC"; /*25BC-сущность(стрелка)*/
     position: absolute;
     background: #686077;
     top: 0;
